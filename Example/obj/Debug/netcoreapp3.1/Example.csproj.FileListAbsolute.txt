@@ -1,0 +1,17 @@
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/Example.deps.json
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/Example.runtimeconfig.json
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/Example.runtimeconfig.dev.json
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/Example.dll
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/Example.pdb
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/RestitleUntity.dll
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/RestitleUntity.pdb
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.csproj.AssemblyReference.cache
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.AssemblyInfoInputs.cache
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.AssemblyInfo.cs
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.csproj.CopyComplete
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.dll
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.pdb
+/Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.genruntimeconfig.cache
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/ExmapleHtml/ExampleTest1.html

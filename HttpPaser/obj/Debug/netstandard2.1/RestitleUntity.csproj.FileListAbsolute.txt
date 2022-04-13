@@ -1,0 +1,10 @@
+/Users/imac/Projects/HyReptile/HttpPaser/bin/Debug/netstandard2.1/RestitleUntity.deps.json
+/Users/imac/Projects/HyReptile/HttpPaser/bin/Debug/netstandard2.1/RestitleUntity.dll
+/Users/imac/Projects/HyReptile/HttpPaser/bin/Debug/netstandard2.1/RestitleUntity.pdb
+/Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.csproj.AssemblyReference.cache
+/Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.AssemblyInfoInputs.cache
+/Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.AssemblyInfo.cs
+/Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.dll
+/Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.pdb

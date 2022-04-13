@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdzvszYlPdHNRBUVqhzNImBinepvEDBBXPS6Q45iwFHNXYsOnVsU+DTvZuuFs4y3XlJn7qbwMHaF6k3liwPNNQ==",
+  "success": true,
+  "projectFilePath": "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj",
+  "expectedPackageFiles": [
+    "/Users/imac/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "/Users/imac/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.diagnostics.debug/4.0.11/system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.diagnostics.tools/4.0.1/system.diagnostics.tools.4.0.1.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.globalization/4.0.11/system.globalization.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.io/4.1.0/system.io.4.1.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.io.filesystem/4.0.1/system.io.filesystem.4.0.1.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.io.filesystem.primitives/4.0.1/system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.reflection.primitives/4.0.1/system.reflection.primitives.4.0.1.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.resources.resourcemanager/4.0.1/system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.runtime.extensions/4.1.0/system.runtime.extensions.4.1.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.runtime.handles/4.0.1/system.runtime.handles.4.0.1.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.runtime.interopservices/4.1.0/system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.text.encoding/4.0.11/system.text.encoding.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.text.encoding.extensions/4.0.11/system.text.encoding.extensions.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.text.regularexpressions/4.1.0/system.text.regularexpressions.4.1.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.threading/4.0.11/system.threading.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.threading.tasks.extensions/4.0.0/system.threading.tasks.extensions.4.0.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.xml.readerwriter/4.0.11/system.xml.readerwriter.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.xml.xdocument/4.0.11/system.xml.xdocument.4.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

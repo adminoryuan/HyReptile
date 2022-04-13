@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="System.Xml.XDocument" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Xml.XDocument" Version="4.0.11" />
+  </ItemGroup>
+</Project>

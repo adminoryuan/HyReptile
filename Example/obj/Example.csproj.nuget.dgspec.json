@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/imac/Projects/HyReptile/Example/Example.csproj": {}
+  },
+  "projects": {
+    "/Users/imac/Projects/HyReptile/Example/Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/imac/Projects/HyReptile/Example/Example.csproj",
+        "projectName": "Example",
+        "projectPath": "/Users/imac/Projects/HyReptile/Example/Example.csproj",
+        "packagesPath": "/Users/imac/.nuget/packages/",
+        "outputPath": "/Users/imac/Projects/HyReptile/Example/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/imac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj": {
+                "projectPath": "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj",
+        "projectName": "RestitleUntity",
+        "projectPath": "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj",
+        "packagesPath": "/Users/imac/.nuget/packages/",
+        "outputPath": "/Users/imac/Projects/HyReptile/HttpPaser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/imac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Xml.XDocument": {
+              "target": "Package",
+              "version": "[4.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
