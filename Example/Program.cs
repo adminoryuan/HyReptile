@@ -4,17 +4,18 @@ using RestitleUntity;
 using System.IO;
 using System.Net;
 using RepitleCore;
+using System.Threading.Tasks;
 
 namespace Example
 {
     class Program
     {
         [Obsolete]
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             HyRepitle repitle= new HyRepitle();
 
-            repitle.Request("GET", "http://www.spvec.com.cn/");
+            repitle.Request("GET", "http://www.spvec.com.cn");
 
             repitle.Accpect("text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9");
 
@@ -28,8 +29,8 @@ namespace Example
 
             repitle.Headers("Accept-Encoding", "gzip,deflate");
 
-            repitle.StartReptile();
-
+           await  repitle.StartReptile();
+ 
 
 
         }
