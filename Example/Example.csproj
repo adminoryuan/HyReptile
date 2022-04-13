@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HttpPaser\RestitleUntity.csproj" />
+    <ProjectReference Include="..\RepitleCore\RepitleCore.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="ExmapleHtml\" />

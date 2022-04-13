@@ -315,6 +315,16 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "RepitleCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/RepitleCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepitleCore.dll": {}
+        }
+      },
       "RestitleUntity/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
@@ -1791,6 +1801,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "RepitleCore/1.0.0": {
+      "type": "project",
+      "path": "../RepitleCore/RepitleCore.csproj",
+      "msbuildProject": "../RepitleCore/RepitleCore.csproj"
+    },
     "RestitleUntity/1.0.0": {
       "type": "project",
       "path": "../HttpPaser/RestitleUntity.csproj",
@@ -1799,6 +1814,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "RepitleCore >= 1.0.0",
       "RestitleUntity >= 1.0.0"
     ]
   },
@@ -1829,6 +1845,9 @@
           "projectReferences": {
             "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj": {
               "projectPath": "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj"
+            },
+            "/Users/imac/Projects/HyReptile/RepitleCore/RepitleCore.csproj": {
+              "projectPath": "/Users/imac/Projects/HyReptile/RepitleCore/RepitleCore.csproj"
             }
           }
         }

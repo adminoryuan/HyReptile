@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Example/1.0.0": {
         "dependencies": {
+          "RepitleCore": "1.0.0",
           "RestitleUntity": "1.0.0"
         },
         "runtime": {
@@ -205,6 +206,11 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
+      "RepitleCore/1.0.0": {
+        "runtime": {
+          "RepitleCore.dll": {}
+        }
+      },
       "RestitleUntity/1.0.0": {
         "dependencies": {
           "System.Xml.XDocument": "4.0.11"
@@ -388,6 +394,11 @@
       "sha512": "sha512-Mk2mKmPi0nWaoiYeotq1dgeNK1fqWh61+EK+w4Wu8SWuTYLzpUnschb59bJtGywaPq7SmTuPf44wrXRwbIrukg==",
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
+    },
+    "RepitleCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "RestitleUntity/1.0.0": {
       "type": "project",

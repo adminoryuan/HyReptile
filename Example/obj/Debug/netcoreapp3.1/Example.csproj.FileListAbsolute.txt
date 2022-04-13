@@ -15,3 +15,5 @@
 /Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.pdb
 /Users/imac/Projects/HyReptile/Example/obj/Debug/netcoreapp3.1/Example.genruntimeconfig.cache
 /Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/ExmapleHtml/ExampleTest1.html
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/RepitleCore.dll
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/RepitleCore.pdb
