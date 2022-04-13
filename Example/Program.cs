@@ -2,6 +2,8 @@
 using RestitleUntity;
 
 using System.IO;
+using System.Net;
+
 namespace Example
 {
     class Program
@@ -9,22 +11,30 @@ namespace Example
         static void Main(string[] args)
         {
 
+            
+            Console.WriteLine(Dns.GetHostByName("www.baidu.com").AddressList[0].ToString());
+
+
+
+         
+            Console.ReadLine();
+             
+        }
+        static void TestXmlUntity()
+        {
+            #region TestXmlUntity
 
             string currPath = Environment.CurrentDirectory;
 
-            string allHtml=File.ReadAllText($"{currPath}/{"ExmapleHtml/ExampleTest1.html"}");
-
-
-          
+            string allHtml = File.ReadAllText($"{currPath}/{"ExmapleHtml/ExampleTest1.html"}");
             XmlUntity untity = new XmlUntity(allHtml);
 
-            var Nodes= untity.SelectNode("html/body");
-
-       
+            var Nodes = untity.SelectNode("body");
 
 
-           Console.ReadLine();
-            
+            Console.WriteLine(Nodes.Item(0).InnerXml);
+
+            #endregion
         }
     }
 }
