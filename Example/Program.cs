@@ -2,7 +2,7 @@
 using RestitleUntity;
 
 using System.IO;
-using System.Net;
+using System.Net;   
 using RepitleCore;
 using System.Threading.Tasks;
 
@@ -10,10 +10,15 @@ namespace Example
 {
     class Program
     {
+
+     
         [Obsolete]
         static async Task Main(string[] args)
-        {
-            HyRepitle repitle= new HyRepitle();
+       {
+
+
+
+            HyRepitle repitle = new HyRepitle();
 
             repitle.Request("GET", "http://www.spvec.com.cn");
 
@@ -23,15 +28,13 @@ namespace Example
 
             repitle.User_Agent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36");
 
-            //repitle.Host("www.spvec.com.cn");
+            repitle.Host("www.spvec.com.cn");
 
-            repitle.Headers("Connection","keep-alive");
+            repitle.Headers("Connection", "keep-alive");
 
             repitle.Headers("Accept-Encoding", "gzip,deflate");
 
-           await  repitle.StartReptile();
- 
-
+            await repitle.StartReptile(); 
 
         }
         static void TestRepitleCore()
