@@ -59,16 +59,17 @@ namespace Example
             repitle.User_Agent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36");
 
             repitle.Headers("Accept-Language", "zh-CN,zh;q=0.9,en;q=0.8");
+            
             repitle.Host("www.spvec.com.cn");
 
             repitle.Headers("Connection", "keep-alive");
 
-            repitle.Headers("Accept-Encoding", "gzip,deflate");
+           repitle.Headers("Accept-Encoding", "gzip,deflate");
 
             IRepitResponse response= await repitle.StartReptile();
 
              
-            //Console.WriteLine(response.GetText());
+             Console.WriteLine(response.GetText());
         }
         static void TestRepitleCore()
         {

@@ -1919,19 +1919,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/imac/.nuget/packages/": {}
+    "/home/yh/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/imac/Projects/HyReptile/Example/Example.csproj",
+      "projectUniqueName": "/home/yh/daima/HyReptile/Example/Example.csproj",
       "projectName": "Example",
-      "projectPath": "/Users/imac/Projects/HyReptile/Example/Example.csproj",
-      "packagesPath": "/Users/imac/.nuget/packages/",
-      "outputPath": "/Users/imac/Projects/HyReptile/Example/obj/",
+      "projectPath": "/home/yh/daima/HyReptile/Example/Example.csproj",
+      "packagesPath": "/home/yh/.nuget/packages/",
+      "outputPath": "/home/yh/daima/HyReptile/Example/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/imac/.nuget/NuGet/NuGet.Config"
+        "/home/yh/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -1943,11 +1943,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj": {
-              "projectPath": "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj"
+            "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj": {
+              "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj"
             },
-            "/Users/imac/Projects/HyReptile/RepitleCore/RepitleCore.csproj": {
-              "projectPath": "/Users/imac/Projects/HyReptile/RepitleCore/RepitleCore.csproj"
+            "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj": {
+              "projectPath": "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj"
             }
           }
         }
@@ -1971,12 +1971,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.1.14, 3.1.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
