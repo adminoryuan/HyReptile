@@ -2,6 +2,7 @@
 using System.Net.Sockets;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -45,7 +46,7 @@ namespace RepitleCore
             int Readlens = connSocket.Receive(DatasCache);
 
 
-            Console.WriteLine(Encoding.UTF8.GetString(DatasCache));
+            
 
             string[] https= Encoding.UTF8.GetString(DatasCache).Split("\r\n");
 
@@ -69,16 +70,13 @@ namespace RepitleCore
             }
 
           
-
+           
             while (CurrReadLen < ContenLenth)
             {
                 DatasCache = new byte[512];
                 Readlens=connSocket.Receive(DatasCache);
 
-                Console.WriteLine("----------------------------==================");
-                Console.WriteLine(Encoding.GetEncoding("gb2312").GetString(DatasCache));
-
-                Console.WriteLine("----------------------------==================");
+                 
                 foreach (byte i in DatasCache)
                 {
                     
@@ -91,12 +89,13 @@ namespace RepitleCore
 
 
 
-            string respStrings = Encoding.GetEncoding("gb2312").GetString(RespDatas.ToArray());
+            string respStrings = Encoding.UTF8.GetString((DatasCache.ToArray()));
 
+            Console.WriteLine(respStrings);
          
             string[] rows= respStrings.Split("\r\n\r\n");
 
-            InitHeadersAsync(rows[0]);
+          //  InitHeadersAsync(rows[0]);
 
             InitBodysAsync(rows[1]);
 

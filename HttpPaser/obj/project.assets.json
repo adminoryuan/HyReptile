@@ -1785,19 +1785,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/imac/.nuget/packages/": {}
+    "/home/yh/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj",
+      "projectUniqueName": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
       "projectName": "RestitleUntity",
-      "projectPath": "/Users/imac/Projects/HyReptile/HttpPaser/RestitleUntity.csproj",
-      "packagesPath": "/Users/imac/.nuget/packages/",
-      "outputPath": "/Users/imac/Projects/HyReptile/HttpPaser/obj/",
+      "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
+      "packagesPath": "/home/yh/.nuget/packages/",
+      "outputPath": "/home/yh/daima/HyReptile/HttpPaser/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/imac/.nuget/NuGet/NuGet.Config"
+        "/home/yh/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -1841,7 +1841,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

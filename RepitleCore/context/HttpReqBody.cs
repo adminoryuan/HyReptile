@@ -46,7 +46,7 @@ namespace RepitleCore
         {
             _stringBuilder.Append("\r\n");
             _stringBuilder.Append("\r\n"); 
-            return Encoding.Unicode.GetBytes(_stringBuilder.ToString());
+            return Encoding.UTF8.GetBytes(_stringBuilder.ToString());
 
         }
 

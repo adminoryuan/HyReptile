@@ -8,3 +8,12 @@
 /Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.csproj.CoreCompileInputs.cache
 /Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.dll
 /Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.pdb
+/home/yh/daima/HyReptile/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.deps.json
+/home/yh/daima/HyReptile/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.dll
+/home/yh/daima/HyReptile/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.pdb
+/home/yh/daima/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.csprojAssemblyReference.cache
+/home/yh/daima/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.AssemblyInfoInputs.cache
+/home/yh/daima/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.AssemblyInfo.cs
+/home/yh/daima/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.csproj.CoreCompileInputs.cache
+/home/yh/daima/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.dll
+/home/yh/daima/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.pdb

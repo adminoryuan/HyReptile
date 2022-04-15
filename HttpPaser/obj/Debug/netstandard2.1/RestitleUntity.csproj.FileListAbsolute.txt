@@ -8,3 +8,12 @@
 /Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.csproj.CoreCompileInputs.cache
 /Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.dll
 /Users/imac/Projects/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.pdb
+/home/yh/daima/HyReptile/HttpPaser/bin/Debug/netstandard2.1/RestitleUntity.deps.json
+/home/yh/daima/HyReptile/HttpPaser/bin/Debug/netstandard2.1/RestitleUntity.dll
+/home/yh/daima/HyReptile/HttpPaser/bin/Debug/netstandard2.1/RestitleUntity.pdb
+/home/yh/daima/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.csprojAssemblyReference.cache
+/home/yh/daima/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.AssemblyInfoInputs.cache
+/home/yh/daima/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.AssemblyInfo.cs
+/home/yh/daima/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.csproj.CoreCompileInputs.cache
+/home/yh/daima/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.dll
+/home/yh/daima/HyReptile/HttpPaser/obj/Debug/netstandard2.1/RestitleUntity.pdb

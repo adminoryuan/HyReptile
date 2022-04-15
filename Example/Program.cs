@@ -48,7 +48,7 @@ namespace Example
         [Obsolete]
         static async Task Main(string[] args)
        {
-            Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+           Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
            StringBuilder reqBuilder=new StringBuilder();
            reqBuilder.Append("GET / HTTP/1.1 \r\n");
            reqBuilder.Append("User-Agent:Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 \r\n");
@@ -63,10 +63,15 @@ namespace Example
            socket.Send(Encoding.UTF8.GetBytes(reqBuilder.ToString()));
            
            
+           
            byte[] req = new Byte[100];
+           
            int n=101;
+           
            bool isRadHeaders = true;
+           
            List<String> header = new List<string>();
+           
            List<byte> RespData=new List<byte>();
            while (n >= 100)
            {
@@ -77,12 +82,24 @@ namespace Example
                    
                    string httpHeaders = Encoding.UTF8.GetString(req); 
                    string[] rows = httpHeaders.Split("\r\n");
-                   foreach (var row in rows)
+                   for (int i=0;i<rows.Length;i++)
                    {
-                       header.Add(row);
-                       if (row.Trim().Equals(""))
+                       header.Add(rows[i]);
+                       if (rows[i].Trim().Equals(""))
                        {
                            isRadHeaders = false;
+                           // 很小的损耗 rows[:n] <100 个字节。。
+                           while (i<rows.Length)
+                           {
+                               int j = 0;
+                               byte[] strsBytes = Encoding.UTF8.GetBytes(rows[i++]);
+                               while (j<strsBytes.Length)
+                               {
+                                
+                                   RespData.Append(strsBytes[j++]);   
+                               }
+                           }
+                          
                            break;
                        }
 
@@ -96,6 +113,8 @@ namespace Example
                    }
                }
            }
+        
+           Console.WriteLine(Encoding.UTF8.GetString(RespData.ToArray()));
        }
 
  

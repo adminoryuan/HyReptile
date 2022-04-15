@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/imac/Projects/HyReptile/RepitleCore/RepitleCore.csproj": {}
+    "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj": {}
   },
   "projects": {
-    "/Users/imac/Projects/HyReptile/RepitleCore/RepitleCore.csproj": {
+    "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/imac/Projects/HyReptile/RepitleCore/RepitleCore.csproj",
+        "projectUniqueName": "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj",
         "projectName": "RepitleCore",
-        "projectPath": "/Users/imac/Projects/HyReptile/RepitleCore/RepitleCore.csproj",
-        "packagesPath": "/Users/imac/.nuget/packages/",
-        "outputPath": "/Users/imac/Projects/HyReptile/RepitleCore/obj/",
+        "projectPath": "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj",
+        "packagesPath": "/home/yh/.nuget/packages/",
+        "outputPath": "/home/yh/daima/HyReptile/RepitleCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/imac/.nuget/NuGet/NuGet.Config"
+          "/home/yh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

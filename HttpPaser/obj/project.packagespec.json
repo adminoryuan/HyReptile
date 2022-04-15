@@ -1,0 +1,52 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
+    "projectName": "RestitleUntity",
+    "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
+    "outputPath": "/home/yh/daima/HyReptile/HttpPaser/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.1": {
+      "dependencies": {
+        "System.Xml.XDocument": {
+          "target": "Package",
+          "version": "[4.0.11, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "NETStandard.Library": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+    }
+  }
+}
