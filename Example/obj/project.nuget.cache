@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0kpPbMOC4s7JEEpBYNoDmoFn2mgLWOlmLBCKP6XI0ZHfsvqN1hWABz4eD2jwZDZNOmyw1NR0pjQFDRXO9e6Asg==",
+  "dgSpecHash": "M08HlE5eST6+ApdXID2I8vbtrSZiAk1cnIWDdcgGEA0GGiBWeMssCkwsUuYFynS/7jZvqIAn38i3STkgioavjw==",
   "success": true,
   "projectFilePath": "/Users/imac/Projects/HyReptile/Example/Example.csproj",
   "expectedPackageFiles": [
@@ -17,10 +17,12 @@
     "/Users/imac/.nuget/packages/system.reflection.primitives/4.0.1/system.reflection.primitives.4.0.1.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.resources.resourcemanager/4.0.1/system.resources.resourcemanager.4.0.1.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.runtime.extensions/4.1.0/system.runtime.extensions.4.1.0.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.runtime.handles/4.0.1/system.runtime.handles.4.0.1.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.runtime.interopservices/4.1.0/system.runtime.interopservices.4.1.0.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.text.encoding/4.0.11/system.text.encoding.4.0.11.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.text.encoding.extensions/4.0.11/system.text.encoding.extensions.4.0.11.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.text.regularexpressions/4.1.0/system.text.regularexpressions.4.1.0.nupkg.sha512",
     "/Users/imac/.nuget/packages/system.threading/4.0.11/system.threading.4.0.11.nupkg.sha512",

@@ -5,17 +5,46 @@ using System.IO;
 using System.Net;   
 using RepitleCore;
 using System.Threading.Tasks;
+using System.Text;
 
 namespace Example
 {
     class Program
     {
 
-     
+       static void TestRow()
+        {
+            string str = "user-agent:askjdlaksjdlaksjdklajsdas \r\n\r\n bodys";
+
+            byte[] bodys = Encoding.UTF8.GetBytes(str);
+
+            byte[] a =Encoding.UTF8.GetBytes("\r\n");
+          
+            int len = 0;
+            foreach (var item in bodys)
+            {
+                if(item==13 || item == 10)
+                {
+                    len += 1;
+                }
+                else
+                {
+                    len = 0;
+                }
+
+                if (len > 4)
+                {
+                    Console.WriteLine(item);
+                   
+                }
+                
+            }
+        }
+
+
         [Obsolete]
         static async Task Main(string[] args)
        {
-
 
 
             HyRepitle repitle = new HyRepitle();
@@ -34,8 +63,10 @@ namespace Example
 
             repitle.Headers("Accept-Encoding", "gzip,deflate");
 
-            await repitle.StartReptile(); 
+            IRepitResponse response= await repitle.StartReptile();
 
+             
+            //Console.WriteLine(response.GetText());
         }
         static void TestRepitleCore()
         {

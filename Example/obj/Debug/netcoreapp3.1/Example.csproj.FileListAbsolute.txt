@@ -17,3 +17,6 @@
 /Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/ExmapleHtml/ExampleTest1.html
 /Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/RepitleCore.dll
 /Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/RepitleCore.pdb
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/imac/Projects/HyReptile/Example/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll

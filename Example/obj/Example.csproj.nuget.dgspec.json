@@ -14,7 +14,7 @@
         "outputPath": "/Users/imac/Projects/HyReptile/Example/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/imac/.nuget/NuGet/NuGet.Config"
+          "/Users/imac/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -73,7 +73,7 @@
         "outputPath": "/Users/imac/Projects/HyReptile/HttpPaser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/imac/.nuget/NuGet/NuGet.Config"
+          "/Users/imac/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -131,7 +131,7 @@
         "outputPath": "/Users/imac/Projects/HyReptile/RepitleCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/imac/.nuget/NuGet/NuGet.Config"
+          "/Users/imac/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -154,6 +154,12 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
