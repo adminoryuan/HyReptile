@@ -14,7 +14,7 @@
         "outputPath": "/Users/imac/Projects/HyReptile/RepitleCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/imac/.config/NuGet/NuGet.Config"
+          "/Users/imac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -37,6 +37,12 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

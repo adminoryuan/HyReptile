@@ -4,4 +4,14 @@
     <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Resp\" />
+    <None Remove="System.Text.Encoding.CodePages" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resp\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
+  </ItemGroup>
 </Project>

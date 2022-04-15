@@ -1,0 +1,10 @@
+/Users/imac/Projects/HyReptile/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.deps.json
+/Users/imac/Projects/HyReptile/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.dll
+/Users/imac/Projects/HyReptile/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.pdb
+/Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.csproj.AssemblyReference.cache
+/Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.AssemblyInfoInputs.cache
+/Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.AssemblyInfo.cs
+/Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.dll
+/Users/imac/Projects/HyReptile/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.pdb

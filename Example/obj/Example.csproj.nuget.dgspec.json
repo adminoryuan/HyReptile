@@ -14,7 +14,7 @@
         "outputPath": "/Users/imac/Projects/HyReptile/Example/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/imac/.config/NuGet/NuGet.Config"
+          "/Users/imac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -73,7 +73,7 @@
         "outputPath": "/Users/imac/Projects/HyReptile/HttpPaser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/imac/.config/NuGet/NuGet.Config"
+          "/Users/imac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -131,7 +131,7 @@
         "outputPath": "/Users/imac/Projects/HyReptile/RepitleCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/imac/.config/NuGet/NuGet.Config"
+          "/Users/imac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"

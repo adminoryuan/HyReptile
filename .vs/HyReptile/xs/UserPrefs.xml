@@ -1,31 +1,29 @@
 ﻿<Properties StartupConfiguration="{0842E0B6-E455-47E1-B4B6-5635FF1DF837}|Default">
-  <MonoDevelop.Ide.ItemProperties.RepitleCore FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Example/HyRepitle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepitleCore/context/HttpReqBody.cs">
     <Files>
-      <File FileName="HttpPaser/IHttpPaser.cs" Line="25" Column="1" />
-      <File FileName="HttpPaser/HtmlElment.cs" Line="10" Column="9" />
-      <File FileName="HttpPaser/HttpPaser.cs" Line="15" Column="10" />
-      <File FileName="HttpPaser/XmlUntity.cs" Line="29" Column="1" />
-      <File FileName="Example/Program.cs" Line="25" Column="1" />
-      <File FileName="Example/ExmapleHtml/ExampleTest1.html" Line="15" Column="1" />
-      <File FileName="RepitleCore/iHyRepitle.cs" Line="20" Column="20" />
-      <File FileName="Example/HyRepitle.cs" Line="4" Column="35" />
+      <File FileName="Example/Program.cs" Line="68" Column="58" />
+      <File FileName="RepitleCore/HyRepitle.cs" Line="43" Column="56" />
+      <File FileName="RepitleCore/context/HttpReqBody.cs" Line="54" Column="55" />
+      <File FileName="RepitleCore/context/IRepitResponse.cs" Line="1" Column="1" />
+      <File FileName="RepitleCore/context/RepitRespon.cs" Line="48" Column="44" />
+      <File FileName="RepitleCore/NetSocket.cs" Line="38" Column="66" />
+      <File FileName="RepitleCore/iHyRepitle.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HyReptile" expanded="True">
-            <Node name="Example" expanded="True">
-              <Node name="ExmapleHtml" expanded="True" />
-              <Node name="HyRepitle.cs" selected="True" />
+            <Node name="Example" expanded="True" />
+            <Node name="RepitleCore" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="context" expanded="True">
+                <Node name="HttpReqBody.cs" selected="True" />
+              </Node>
             </Node>
-            <Node name="RepitleCore" expanded="True" />
-            <Node name="RestitleUntity" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -35,6 +33,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/imac/Projects/HyReptile/HttpPaser/XmlUntity.cs" relfile="HttpPaser/XmlUntity.cs" line="28" column="1" />
+      <Breakpoint file="/Users/imac/Projects/HyReptile/RepitleCore/context/RepitRespon.cs" relfile="RepitleCore/context/RepitRespon.cs" line="129" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
