@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RepitleCore.Untity;
 
 namespace RepitleCore
 {
@@ -117,19 +118,19 @@ namespace RepitleCore
         {
             if (_Headers.ContainsKey(key))
                 return _Headers[key];
+            
             return null;
         }
 
-        public string GetText()
+        public string GetText(String Coding)
         {
-            if (allBodys.Length <=0)
+            if (allBodys.Length <= 0)
             {
                 return "";
             }
-
-            Console.WriteLine();
-           
-            return Encoding.UTF8.GetString(allBodys) ;
+            return EncodingBody.Decoding(Coding,allBodys);
         }
+        
+        
     }
 }
