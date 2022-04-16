@@ -1,7 +1,7 @@
 # HyReptile
   - # 介绍 
   - HyReptile 是使用c# 编写的一个轻量爬虫库， 可使用少量代码实现爬虫功能
-  - # 使用
+  - # 样例使用
   ``` c#
           HyRepitle repitle = new HyRepitle();
 
