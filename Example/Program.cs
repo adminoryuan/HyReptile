@@ -96,7 +96,7 @@ namespace Example
                                while (j<strsBytes.Length)
                                {
                                 
-                                   RespData.Append(strsBytes[j++]);   
+                                   RespData.Add(strsBytes[j++]);   
                                }
                            }
                           
