@@ -1,4 +1,6 @@
 ﻿using System;
+using RepitleCore.Untity;
+
 namespace RepitleCore
 {
     public interface IRepitResponse
@@ -13,7 +15,7 @@ namespace RepitleCore
         /// 获取响应文本
         /// </summary>
         /// <returns></returns>
-        string GetText();
+        string GetText(CodingEnum Coding);
 
 
     }

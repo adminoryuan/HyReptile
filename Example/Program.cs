@@ -10,6 +10,7 @@ using System.Security.Cryptography;
 using RepitleCore;
 using System.Threading.Tasks;
 using System.Text;
+using RepitleCore.Untity;
 
 namespace Example
 {
@@ -74,7 +75,7 @@ namespace Example
            IRepitResponse response= await repitle.StartReptile();
 
              
-           Console.WriteLine(response.GetText());
+           Console.WriteLine(response.GetText(CodingEnum.Utf8));
 
            }
        }

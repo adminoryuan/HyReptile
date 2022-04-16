@@ -105,6 +105,8 @@ namespace RepitleCore
             return allBodys;
         }
 
+       
+
         public string getCookie()
         {
             if (_Headers.ContainsKey("Cookie"))
@@ -122,7 +124,7 @@ namespace RepitleCore
             return null;
         }
 
-        public string GetText(String Coding)
+        public string GetText(CodingEnum Coding)
         {
             if (allBodys.Length <= 0)
             {

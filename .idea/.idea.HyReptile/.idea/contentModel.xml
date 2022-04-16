@@ -36,12 +36,15 @@
       </e>
       <e p="HyReptile.sln" t="IncludeFlat" />
       <e p="RepitleCore" t="IncludeRecursive">
-        <e p="HttpUntity.cs" t="Include" />
         <e p="HyRepitle.cs" t="Include" />
         <e p="NetSocket.cs" t="Include" />
-        <e p="ReadHttp.cs" t="Include" />
         <e p="RepitleCore.csproj" t="IncludeRecursive" />
         <e p="Resp" t="Include" />
+        <e p="Untity" t="Include">
+          <e p="EncodingBody.cs" t="Include" />
+          <e p="GzipUntity.cs" t="Include" />
+          <e p="ReadHttp.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="context" t="Include">
           <e p="HttpReqBody.cs" t="Include" />

@@ -3,20 +3,26 @@ using System.Text;
 
 namespace RepitleCore.Untity
 {
+    public enum CodingEnum
+    {
+        Utf8,
+        GB2312,
+        Unicode
+    }
     /// <summary>
     /// 对字符串进行编码
     /// </summary>
     public class EncodingBody
     {
-        public static String Decoding(string code,byte[] bodys)
+        public static String Decoding(CodingEnum code,byte[] bodys)
         {
             switch (code)
             {
-                case "utf-8":
+                case CodingEnum.Utf8:
                     return Encoding.UTF8.GetString(bodys);
-                case "gb2312":
+                case CodingEnum.GB2312:
                     return Encoding.GetEncoding("gb2312").GetString(bodys);
-                case "Unicode":
+                case CodingEnum.Unicode:
                     return Encoding.Unicode.GetString(bodys);
             }
 
