@@ -66,10 +66,23 @@ namespace RepitleCore
             InitHeadersAsync(Encoding.UTF8.GetString(req.Take(SplitIndex).ToArray()));
             
             int ContentLength=int.Parse(_Headers["Content-Length"]);
+
+            List<byte> newBodyByte = req.Skip(SplitIndex + 4).ToList();
+
+
+            int readBodylen = n - SplitIndex - 4;
             
+            while (ContentLength> readBodylen)
+            {
+                
+                n = connSocket.Receive(req);
+                readBodylen += n;
+                newBodyByte.AddRange(req.ToArray());
+            }
             
+            Console.WriteLine($"len={ContentLength} readlen={readBodylen}");
             
-            allBodys = req.Skip(SplitIndex+4).ToArray();
+            allBodys =newBodyByte.ToArray();
            
             
             
@@ -79,6 +92,10 @@ namespace RepitleCore
 
        
 
+        /// <summary>
+        /// 初始化请求头
+        /// </summary>
+        /// <param name="AllHeaders"></param>
         private void InitHeadersAsync(string AllHeaders)
         {
             string[] allHttps= AllHeaders.Split("\r\n");
@@ -99,14 +116,22 @@ namespace RepitleCore
         }
 
         
-
+    
+        /// <summary>
+        /// 获取请求体
+        /// </summary>
+        /// <returns></returns>
         public byte[] GetContent()
         {
             return allBodys;
         }
 
        
-
+    
+        /// <summary>
+        /// 获取Cookie
+        /// </summary>
+        /// <returns></returns>
         public string getCookie()
         {
             if (_Headers.ContainsKey("Cookie"))

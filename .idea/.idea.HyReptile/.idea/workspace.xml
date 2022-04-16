@@ -23,10 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c89c8c9-1edb-4dd8-96c5-b389b63bc528" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Example/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Example/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepitleCore/Untity/EncodingBody.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RepitleCore/Untity/EncodingBody.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepitleCore/context/IRepitResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RepitleCore/context/IRepitResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HyReptile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HyReptile/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/bin/Debug/netcoreapp3.1/RepitleCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Example/bin/Debug/netcoreapp3.1/RepitleCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/bin/Debug/netcoreapp3.1/RepitleCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Example/bin/Debug/netcoreapp3.1/RepitleCore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RepitleCore/bin/Debug/netstandard2.1/RepitleCore.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RepitleCore/obj/Debug/netstandard2.1/RepitleCore.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +53,9 @@
         <option value="$PROJECT_DIR$/RepitleCore/HttpUntity.cs" />
         <option value="$PROJECT_DIR$/RepitleCore/context/HttpReqBody.cs" />
         <option value="$PROJECT_DIR$/RepitleCore/Untity/EncodingBody.cs" />
-        <option value="$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs" />
         <option value="$PROJECT_DIR$/RepitleCore/context/IRepitResponse.cs" />
         <option value="$PROJECT_DIR$/Example/Program.cs" />
+        <option value="$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs" />
       </list>
     </option>
   </component>
@@ -106,7 +110,7 @@
       <updated>1650014565084</updated>
       <workItem from="1650014572168" duration="1660000" />
       <workItem from="1650016693428" duration="4734000" />
-      <workItem from="1650106236948" duration="7095000" />
+      <workItem from="1650106236948" duration="7849000" />
     </task>
     <servers />
   </component>
@@ -135,22 +139,22 @@
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
     <state width="543" height="703" key="DebuggerActiveHint/72.34.1848.1046@72.34.1848.1046" timestamp="1650114137217" />
-    <state width="1149" height="12" key="GridCell.Tab.0.bottom" timestamp="1650114608898">
+    <state width="1144" height="375" key="GridCell.Tab.0.bottom" timestamp="1650115730988">
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state width="1149" height="12" key="GridCell.Tab.0.bottom/72.34.1848.1046@72.34.1848.1046" timestamp="1650114608898" />
-    <state width="1149" height="12" key="GridCell.Tab.0.center" timestamp="1650114608897">
+    <state width="1144" height="375" key="GridCell.Tab.0.bottom/72.34.1848.1046@72.34.1848.1046" timestamp="1650115730988" />
+    <state width="1144" height="375" key="GridCell.Tab.0.center" timestamp="1650115730987">
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state width="1149" height="12" key="GridCell.Tab.0.center/72.34.1848.1046@72.34.1848.1046" timestamp="1650114608897" />
-    <state width="1149" height="12" key="GridCell.Tab.0.left" timestamp="1650114608897">
+    <state width="1144" height="375" key="GridCell.Tab.0.center/72.34.1848.1046@72.34.1848.1046" timestamp="1650115730987" />
+    <state width="1144" height="375" key="GridCell.Tab.0.left" timestamp="1650115730986">
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state width="1149" height="12" key="GridCell.Tab.0.left/72.34.1848.1046@72.34.1848.1046" timestamp="1650114608897" />
-    <state width="1149" height="12" key="GridCell.Tab.0.right" timestamp="1650114608898">
+    <state width="1144" height="375" key="GridCell.Tab.0.left/72.34.1848.1046@72.34.1848.1046" timestamp="1650115730986" />
+    <state width="1144" height="375" key="GridCell.Tab.0.right" timestamp="1650115730987">
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state width="1149" height="12" key="GridCell.Tab.0.right/72.34.1848.1046@72.34.1848.1046" timestamp="1650114608898" />
+    <state width="1144" height="375" key="GridCell.Tab.0.right/72.34.1848.1046@72.34.1848.1046" timestamp="1650115730987" />
     <state width="892" height="234" key="GridCell.Tab.1.bottom" timestamp="1650114172662">
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
@@ -263,26 +267,26 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs</url>
-          <line>75</line>
+          <line>88</line>
           <properties documentPath="$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs" initialLine="58">
             <startOffsets>
-              <option value="1725" />
+              <option value="2127" />
             </startOffsets>
             <endOffsets>
-              <option value="1787" />
+              <option value="2189" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs</url>
-          <line>83</line>
+          <line>100</line>
           <properties documentPath="$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs" initialLine="85">
             <startOffsets>
-              <option value="1888" />
+              <option value="2400" />
             </startOffsets>
             <endOffsets>
-              <option value="1932" />
+              <option value="2444" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="50" />
@@ -312,19 +316,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs</url>
-          <line>128</line>
-          <properties documentPath="$PROJECT_DIR$/RepitleCore/context/RepitRespon.cs" initialLine="118">
-            <startOffsets>
-              <option value="2831" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2856" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
