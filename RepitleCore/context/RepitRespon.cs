@@ -37,67 +37,42 @@ namespace RepitleCore
         /// </summary>
         private  void ReadResonse()
         {
-            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
-            List<byte> RespDatas = new List<byte>();
-
-            byte[] DatasCache = new byte[521];
-            int CurrReadLen = 512;
-
-            int Readlens = connSocket.Receive(DatasCache);
-
+          
+          
+            //简单粗暴
+            byte[] req = new byte[20480];
 
             
-
-            string[] https= Encoding.UTF8.GetString(DatasCache).Split("\r\n");
-
-            int index=1; int ContenLenth = 0;
-
-
-            while (https.Length > index){
-                string[] row = https[index].Split(":");
-
-                if (row[0].Contains("Content-Length")){
-                    ContenLenth = int.Parse(row[1].Trim());
-                    break;
-                }
-                index++;
-            }
-             
-
-            foreach(byte i in DatasCache)
+            int n=connSocket.Receive(req);
+            Console.WriteLine(n);
+            req = req.Take(n).ToArray(); 
+            
+            Console.WriteLine(n);
+            int SplitIndex = 0;
+            //找到分割线 \r\n\r\n 
+            for (int i = 0; i < n; i++)
             {
-                RespDatas.Add(i);
-            }
-
-          
-           
-            while (CurrReadLen < ContenLenth)
-            {
-                DatasCache = new byte[512];
-                Readlens=connSocket.Receive(DatasCache);
-
-                 
-                foreach (byte i in DatasCache)
+                if (req[i]==13)
                 {
-                    
-                    RespDatas.Add(i);
-                } 
-
-                CurrReadLen += Readlens;
-
-            }
-
-
-
-            string respStrings = Encoding.UTF8.GetString((DatasCache.ToArray()));
-
-            Console.WriteLine(respStrings);
-         
-            string[] rows= respStrings.Split("\r\n\r\n");
-
-          //  InitHeadersAsync(rows[0]);
-
-            InitBodysAsync(rows[1]);
+                    if (req[i+3]==10)
+                    {
+                        //从这里开始分割
+                        SplitIndex = i;
+                        break;
+                    }
+                }
+            } 
+            InitHeadersAsync(Encoding.UTF8.GetString(req.Take(SplitIndex).ToArray()));
+            
+            int ContentLength=int.Parse(_Headers["Content-Length"]);
+            
+            
+            
+            allBodys = req.Skip(SplitIndex+4).ToArray();
+           
+            
+            
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
         }
 
@@ -115,19 +90,14 @@ namespace RepitleCore
 
             while (index < allHttps.Length)
             {
-                string[] Rows = allHttps[index].Split(":");
-
+                string[] Rows = allHttps[index].Split(":");  
                 _Headers.Add(Rows[0].Trim(), Rows[1].Trim());
                 index++;
             }
             
         }
 
-        private void InitBodysAsync(string allBody)
-        {
-            allBodys =Encoding.UTF8.GetBytes(allBody);
-                
-        }
+        
 
         public byte[] GetContent()
         {
@@ -157,7 +127,9 @@ namespace RepitleCore
                 return "";
             }
 
-            return Encoding.GetEncoding("GB2312").GetString(allBodys);
+            Console.WriteLine();
+           
+            return Encoding.UTF8.GetString(allBodys) ;
         }
     }
 }
