@@ -54,7 +54,7 @@ namespace Example
      
 
          
-            HyRepitle repitle = new HyRepitle();
+           HyRepitle repitle = new HyRepitle();
 
            repitle.Request("GET", "http://www.spvec.com.cn");
 

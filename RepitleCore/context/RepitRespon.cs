@@ -77,7 +77,7 @@ namespace RepitleCore
                 
                 n = connSocket.Receive(req);
                 readBodylen += n;
-                newBodyByte.AddRange(req.ToArray());
+                newBodyByte.AddRange(req.Take(n).ToArray());
             }
             
             Console.WriteLine($"len={ContentLength} readlen={readBodylen}");
