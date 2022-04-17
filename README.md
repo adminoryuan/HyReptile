@@ -1,5 +1,5 @@
 # HyReptile
-  - # 介绍 ![tag](https://img.shields.io/badge/%E7%88%AC%E8%99%AB-c%23-red)
+  - # 介绍 ![c#](https://img.shields.io/badge/c%23-8.0-red) ![netstandard2.1](https://img.shields.io/badge/netstandard-2.1-blue)
   - # HyReptile 是使用c# 编写的一个轻量爬虫库， 可使用少量代码实现爬虫功能
   - 本项目分为两个模块
   - RepitleCore  (爬虫核心爬虫负责模拟发送请求)
