@@ -1,0 +1,1937 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="PS教程,Photoshop教程,PS视频教程">
+<title>PS教程自学网(240PS)--轻松学会PS</title>
+<link href="dy/css.css" rel="stylesheet" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0">
+<table width="100%" height="54" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#6AA20B">
+<tr> 
+<td align="center" valign="bottom"> 
+<table width="998" border="0" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="102"><img src="images/logo.jpg" width="102" height="50"></td>
+<td width="896" align="right"> 
+<table width="890" border="0" cellpadding="0" cellspacing="0">
+<tr align="center" class="TP1"> 
+<td><a class="TP1" href="http://www.240ps.com/jc/xinshouzixue.asp">新手自学</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/koutu.asp">抠图</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc">图片处理</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/shipin.asp">视频教程</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/tiaose.asp">调色教程</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/wenzi.asp">文字效果</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/tphc.asp">图片合成</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/sjjc.asp">设计教程</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/txzz.asp">特效制作</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/dhzz.asp">动画制作</a></td>
+<td><a class="TP1" href="http://www.240ps.com/jc/cpjx.asp">精修</a></td>
+<td><a class="TP1" href="http://www.240ps.com/shejixinshang">设计欣赏</a></td>
+<td><a class="TP1" href="http://www.240ps.com/bishua">笔刷</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="100%" height="19" border="0" align="center" cellpadding="0" cellspacing="0" background="images/top_1.jpg">
+<tr> 
+<td align="left"><img src="images/top_1.jpg" width="1" height="19"></td>
+</tr>
+</table>
+<table width="75%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="764"><img src="images/cen_1.jpg" width="970" height="38"></td>
+</tr>
+</table>
+<table width="970" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFCF5">
+<tr> 
+<td width="268"><img src="images/cen_2a.jpg" width="268" height="39"></td>
+<td width="441"><table width="441" height="31" border="0" cellpadding="0" cellspacing="0">
+<form name="form1" method="post" action="jc/search.asp">
+<tr> 
+<td width="349" height="31"> <input name=getkey type="text" class="CHX" id=getkey 
+style="BORDER-RIGHT: #FFFCF5 1px solid; BORDER-TOP: #FFFCF5 1px solid; FONT-SIZE: 14pt; BORDER-LEFT: #FFFCF5 1px solid; BORDER-BOTTOM: #FFFCF5 1px solid; FONT-FAMILY: gulim; HEIGHT: 28px; width: 333px; BACKGROUND-COLOR: #FFFCF5" 
+size=32 maxlength=50></td>
+<td width="92"><input name="Submit" type=image id="Submit"  value="提交" src="images/cen_2b.jpg" width="92" height="31" hspace="4"></td>
+</tr>
+</form>
+</table></td>
+<td width="261" align="right"><img src="images/cen_2c.jpg" width="261" height="39"></td>
+</tr>
+</table>
+<table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="970"><img src="images/cen_3.jpg" width="970" height="38"></td>
+</tr>
+</table>
+<table width="75%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="970" height="43" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#75AB0C">
+<tr> 
+<td width="970" height="43" align="center" class="TIT2">
+<table width="16%" height="33" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td height="16" align="center"><a href="jc/jingdian.asp" target="_blank" class="TIT2"><strong>经典教程</strong></a></td>
+<td align="center"><a href="jc/zuixin.asp" target="_blank" class="TIT2">最新教程</a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="100%" height="20" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td height="16" align="center"> </td>
+</tr>
+</table>
+
+<table width="984" height="163" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr align="center"> 
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_hc.asp?id=1908" target="_blank"><img src="../jc/Pfile/jc220412_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_hc.asp?id=1908" target="_blank">如何用PS合成烟雾中的水墨画教程，唯美中国风</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sh.asp?id=137" target="_blank"><img src="../jc/Pfile/jc220411_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_sh.asp?id=137" target="_blank">Photoshop绘制一个充满童趣的玻璃漂流瓶</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_wz.asp?id=1179" target="_blank"><img src="../jc/Pfile/jc220407_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_wz.asp?id=1179" target="_blank">用PS和AI制作枪战类游戏金属立体字</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sj.asp?id=1110" target="_blank"><img src="../jc/Pfile/jc220404_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_sj.asp?id=1110" target="_blank">用PS快速绘制一只可爱的小黄鱼</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_hc.asp?id=1906" target="_blank"><img src="../jc/Pfile/jc220329_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_hc.asp?id=1906" target="_blank">运用PS合成一个拉成抽丝效果的橙子</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_hc.asp?id=1904" target="_blank"><img src="../jc/Pfile/jc220328_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_hc.asp?id=1904" target="_blank">快速用PS合成飞向漩涡中的新世界场景</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2189" target="_blank"><img src="../jc/Pfile/jc220322_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2189" target="_blank">如何用PS去除人物脸部极为复杂的水印</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_wz.asp?id=1175" target="_blank"><img src="../jc/Pfile/jc220321_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_wz.asp?id=1175" target="_blank">AI与PS结合制作水波涌动的江湖手写字</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2186" target="_blank"><img src="../jc/Pfile/jc220316_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2186" target="_blank">如何用PS精修皮质名片夹，学会了皮质产品就可以轻松修好</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_wz.asp?id=1173" target="_blank"><img src="../jc/Pfile/jc220314_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_wz.asp?id=1173" target="_blank">AI与PS结合制作大气的复古青色立体字</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_hc.asp?id=1899" target="_blank"><img src="../jc/Pfile/jc2203101_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_hc.asp?id=1899" target="_blank">用PS合成森林中坐蜗牛旅行的精灵</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sj.asp?id=1107" target="_blank"><img src="../jc/Pfile/jc220310_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_sj.asp?id=1107" target="_blank">如何用PS制作一张创意冬季残奥会海报</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_hc.asp?id=1896" target="_blank"><img src="../jc/Pfile/jc220301_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_hc.asp?id=1896" target="_blank">PS给美女加上极度清爽的水头发，太有创意了</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_wz.asp?id=1170" target="_blank"><img src="../jc/Pfile/jc220228_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_wz.asp?id=1170" target="_blank">用混合器画笔工具制作高大上的金属手写字</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_hc.asp?id=1894" target="_blank"><img src="../jc/Pfile/jc220220_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_hc.asp?id=1894" target="_blank">如何用PS合成一张超搞笑图片</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sj.asp?id=1105" target="_blank"><img src="../jc/Pfile/jc220217_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_sj.asp?id=1105" target="_blank">为谷爱凌制作一张霸气冬奥滑雪海报</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_hc.asp?id=1892" target="_blank"><img src="../jc/Pfile/jc220215_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_hc.asp?id=1892" target="_blank">用PS创意合成隐藏在墙壁中的人物，效果太逼真了</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sh.asp?id=134" target="_blank"><img src="../jc/Pfile/jc220214_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_sh.asp?id=134" target="_blank">用PS绘制冬季里最火的奥运吉祥物冰墩墩，实在是太可爱了</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sj.asp?id=1103" target="_blank"><img src="../jc/Pfile/jc220207_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_sj.asp?id=1103" target="_blank">非常简单！如何用PS制作漂亮的元宵节海报</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sj.asp?id=1100" target="_blank"><img src="../jc/Pfile/jc220129_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_sj.asp?id=1100" target="_blank">为冬奥会加油！用PS制作漂亮大气的冬奥会海报</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_wz.asp?id=1169" target="_blank"><img src="../jc/Pfile/jc220126_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_wz.asp?id=1169" target="_blank">用PS制作霸气的虎年福字</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_wz.asp?id=1163" target="_blank"><img src="../jc/Pfile/jc220120_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_wz.asp?id=1163" target="_blank">如何用PS制作一款经典的啤酒字效果</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_wz.asp?id=1161" target="_blank"><img src="../jc/Pfile/jc220113_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_wz.asp?id=1161" target="_blank">如何用PS制作虎年生肖立体字</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_hc.asp?id=1887" target="_blank"><img src="../jc/Pfile/jc220110_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big_hc.asp?id=1887" target="_blank">用PS来合成一个非常酷的蜡烛头像</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+</table>
+
+<table width="100" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table>
+<table width="445" height="71" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="f5f5f5">
+<tr> 
+<td width="40" height="16"><img src="images/fi_1.jpg" width="40" height="71"></td>
+<td width="382" align="right"> <table width="349" height="16" border="0" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="349" height="16" align="right"><a class="FYB" href="jc/jingdian.asp">1</a><a class="FYB" href="jc/jingdian.asp?pageno=2">2</a><a class="FYB" href="jc/jingdian.asp?pageno=3">3</a><a class="FYB" href="jc/jingdian.asp?pageno=4">4</a><a class="FYB" href="jc/jingdian.asp?pageno=5">5</a><a class="FYB" href="jc/jingdian.asp?pageno=6">6</a><a class="FYB" href="jc/jingdian.asp?pageno=2">></a></td>
+</tr>
+</table></td>
+<td width="40" align="right"><img src="images/fi_2.jpg" width="40" height="71"></td>
+</tr>
+</table>
+<table width="100" height="36" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table>
+<table width="970" height="43" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#75AB0C">
+<tr> 
+<td width="970" height="43" align="center" class="TIT2">
+<table width="531" border="0" cellpadding="0" cellspacing="0">
+<tr> 
+<td align="center"><a href="jc/shipin.asp" target="_blank" class="TIT2">视频教程</a></td>
+<td align="center"><a href="jc/sp_koutu.asp" target="_blank" class="TIT2">抠图</a></td>
+<td align="center"><a href="jc/sp_mopi.asp" target="_blank" class="TIT2">磨皮</a></td>
+<td align="center"><a href="jc/sp_quzawu.asp" target="_blank" class="TIT2">去杂物</a></td>
+<td align="center"><a href="jc/sp_texiao.asp" target="_blank" class="TIT2">特效制作</a></td>
+<td align="center"><a href="jc/sp_wenzi.asp" target="_blank" class="TIT2">文字效果</a></td>
+<td align="center"><a href="jc/sp_hecheng.asp" target="_blank" class="TIT2">图片合成</a></td>
+<td align="center"><a href="jc/sp_donghua.asp" target="_blank" class="TIT2">动画</a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="100%" height="20" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td height="16" align="center"> </td>
+</tr>
+</table>
+
+<table width="984" height="163" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr align="center"> 
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sp.asp?id=339" target="_blank"><img src="jc/Pfile/jc180128_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=339" target="_blank">怎样抠出带有飘纱的白色婚片</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sp.asp?id=338" target="_blank"><img src="jc/Pfile/jc180121_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=338" target="_blank">怎样合成从书本里出来的人物</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sp.asp?id=337" target="_blank"><img src="jc/Pfile/jc180114_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=337" target="_blank">如何合成一个长着橙子皮的李子</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sp.asp?id=336" target="_blank"><img src="jc/Pfile/jc180107_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=336" target="_blank">如何用通道抠出白云</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sp.asp?id=335" target="_blank"><img src="jc/Pfile/jc171231_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=335" target="_blank">如何制作漂亮的运动鞋海报</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sp.asp?id=334" target="_blank"><img src="jc/Pfile/jc170913_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=334" target="_blank">怎样合成一个大嘴巴苹果</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sp.asp?id=333" target="_blank"><img src="jc/Pfile/jc171106_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=333" target="_blank">怎样合成手掌上的暴雨</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center">
+<table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big_sp.asp?id=332" target="_blank"><img src="jc/Pfile/jc171123_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=332" target="_blank">书本头像的合成方法</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table> </td>
+</tr>
+</table> 
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table> 
+</td>
+
+</table>
+
+<table width="100" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table>
+<table width="445" height="71" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="f5f5f5">
+<tr> 
+<td width="40" height="16"><img src="images/fi_1.jpg" width="40" height="71"></td>
+<td width="382" align="right"> <table width="349" height="16" border="0" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="349" height="16" align="right"><a class="FYB" href="jc/shipin.asp">1</a><a class="FYB" href="jc/shipin.asp?pageno=2">2</a><a class="FYB" href="jc/shipin.asp?pageno=3">3</a><a class="FYB" href="jc/shipin.asp?pageno=4">4</a><a class="FYB" href="jc/shipin.asp?pageno=5">5</a><a class="FYB" href="jc/shipin.asp?pageno=6">6</a><a class="FYB" href="jc/shipin.asp?pageno=2">></a></td>
+</tr>
+</table></td>
+<td width="40" align="right"><img src="images/fi_2.jpg" width="40" height="71"></td>
+</tr>
+</table>
+<table width="100" height="36" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table>
+<table width="970" height="43" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#75AB0C">
+<tr> 
+<td width="970" height="43" align="center" class="TIT2">
+<table width="43%" height="33" border="0" cellpadding="0" cellspacing="0">
+<tr> 
+<td height="16" align="center"><a href="jc/koutu.asp" target="_blank" class="TIT2">抠图教程</a></td>
+<td align="center"><a href="jc/tzby.asp" target="_blank" class="TIT2">调整边缘抠图</a></td>
+<td align="center"><a href="jc/tdkt.asp" target="_blank" class="TIT2">通道抠图</a></td>
+<td align="center"><a href="jc/hskt.asp" target="_blank" class="TIT2">婚纱抠图</a></td>
+<td align="center"><a href="jc/cclj.asp" target="_blank" class="TIT2">抽出滤镜抠图</a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="100%" height="20" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td height="16" align="center"> </td>
+</tr>
+</table>
+
+<table width="984" height="163" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr align="center"> 
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center"> <table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2178" target="_blank"><img src="jc/Pfile/jc210510_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2178" target="_blank">巧用通道抠出逆光人物的细发丝</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table></td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center"> <table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2169" target="_blank"><img src="jc/Pfile/jc200909_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2169" target="_blank">Photoshop通道抠出淡色背景中的卷发美女</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table></td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center"> <table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2163" target="_blank"><img src="jc/Pfile/jc200717_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2163" target="_blank">Photoshop抠出紫色环境中的小猫</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table></td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center"> <table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2147" target="_blank"><img src="jc/Pfile/jc200603_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2147" target="_blank">Photoshop快速抠出手拿鲜花的婚纱美女</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table></td>
+
+</tr>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center"> <table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2142" target="_blank"><img src="jc/Pfile/jc200514_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2142" target="_blank">Photoshop抠出带有羽毛翅膀的小女孩</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table></td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center"> <table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2129" target="_blank"><img src="jc/Pfile/jc200406_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2129" target="_blank">Photoshop抠出昏暗背景中的卷发国外女孩</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table></td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center"> <table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2124" target="_blank"><img src="jc/Pfile/jc200309_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2124" target="_blank">Photoshop抠出篮子中的两只小猫</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table></td>
+
+<td width="984" height="163" valign="top"><table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_1.jpg" width="234" height="10"></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0" background="images/k_2.jpg">
+<tr> 
+<td width="234" align="center"> <table width="197" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="197"><a href="jc/big.asp?id=2122" target="_blank"><img src="jc/Pfile/jc200226_0.jpg" width="208" height="136" border="0"></a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="../images/kong.jpg" width="1" height="11"></td>
+</tr>
+</table>
+<table width="208" height="28" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="208" height="28" align="center" class="TIF"><a class="TIF" href="jc/big.asp?id=2122" target="_blank">运用钢笔和通道抠出室内母子</a></td>
+</tr>
+</table>
+<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="174"><img src="images/kong.jpg" width="1" height="8"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="234" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="234"><img src="images/k_3.jpg" width="234" height="5"></td>
+</tr>
+</table>
+<table width="100" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table></td>
+
+</table>
+
+<table width="100" height="12" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table>
+<table width="445" height="71" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="f5f5f5">
+<tr> 
+<td width="40" height="16"><img src="images/fi_1.jpg" width="40" height="71"></td>
+<td width="382" align="right"> <table width="349" height="16" border="0" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="349" height="16" align="right"><a class="FYB" href="jc/koutu.asp">1</a><a class="FYB" href="jc/koutu.asp?pageno=2">2</a><a class="FYB" href="jc/koutu.asp?pageno=3">3</a><a class="FYB" href="jc/koutu.asp?pageno=4">4</a><a class="FYB" href="jc/koutu.asp?pageno=5">5</a><a class="FYB" href="jc/koutu.asp?pageno=6">6</a><a class="FYB" href="jc/koutu.asp?pageno=2">></a></td>
+</tr>
+</table></td>
+<td width="40" align="right"><img src="images/fi_2.jpg" width="40" height="71"></td>
+</tr>
+</table>
+<table width="100" height="36" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr> 
+<td width="100" height="16">&nbsp;</td>
+</tr>
+</table>
+<table width="100%" height="128" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#5C5C5C">
+<tr> 
+<td width="100%" height="128" align="center" valign="middle"><table width="950" height="28" border="0" cellpadding="8" cellspacing="0" >
+<tr> 
+<td width="64" height="28" align="center" class="BTL"><strong> </strong><a class="BTL" href="http://www.240ps.com/jc/taobaomeigong.asp" target="_blank">淘宝美工</a></td>
+<td width="96" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/tzby.asp" target="_blank">调整边缘抠图</a></td>
+<td width="64" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/tdkt.asp" target="_blank">通道抠图</a></td>
+<td width="64" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/big.asp?id=104" target="_blank">通道磨皮</a></td>
+<td width="80" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/big.asp?id=1" target="_blank">中性灰磨皮</a></td>
+<td width="80" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/big.asp?id=343" target="_blank">双曲线磨皮</a></td>
+<td width="80" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/big.asp?id=32" target="_blank">高低频磨皮</a></td>
+<td width="80" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/big.asp?id=102" target="_blank">人物转素描</a></td>
+<td width="48" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/quzawu.asp" target="_blank">去杂物</a></td>
+<td width="48" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/zhuanshouhui.asp" target="_blank">转手绘</a></td>
+<td width="32" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/jc/shuhui.asp" target="_blank">鼠绘</a></td>
+<td width="64" align="center" class="BTL"><a class="BTL" href="http://www.240ps.com/sucai" target="_blank">背景素材</a></td>
+</tr>
+</table> 
+<table width="950" height="16" border="0" cellpadding="8" cellspacing="0" >
+<tr> 
+<td width="950" height="16" align="center" class="BTD">声明：本站提供的图文教程和素材均为免费资源，转载请注明出处，不能用于任何商业用途。本站的视频教程均有版权保护，不得转载，违者必究。 
+</td>
+</tr>
+</table>
+<table width="950" height="18" border="0" cellpadding="8" cellspacing="0" class="class">
+<tr> 
+<td width="950" height="18" align="center"class="BTD" >站务QQ:3337096 <a href="http://www.beian.miit.gov.cn" target="_blank">湘ICP备16004423号-1</a> <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a51d8817652d1bb0611c5f7cfbb13209";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+</body>
+</html>

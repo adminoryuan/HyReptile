@@ -47,12 +47,20 @@ namespace Example
         {
             HyRepitle repitle=new HyRepitle();
             
-            repitle.Request("GET","http://www.spvec.com.cn/static/images/notice-bg.png");
+            repitle.Request("GET","http://www.240ps.com/");
+     
+
             repitle.User_Agent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36");
-            repitle.Headers("Referer","http://www.spvec.com.cn/static/css/index.css");
+            
+            repitle.Headers("Host","www.240ps.com");
+            
+            repitle.AddCookie("ASPSESSIONIDQCBQQTRR=DOPFLANBANACGKKLJHNPLCNM; Hm_lvt_a51d8817652d1bb0611c5f7cfbb13209=1648813376,1648880465,1650114164,1650185402; Hm_lpvt_a51d8817652d1bb0611c5f7cfbb13209=1650185694");
+            
             IRepitResponse response= await repitle.StartReptile();
-        
-            Console.WriteLine(response.GetText(CodingEnum.Utf8));
+
+            Console.WriteLine(response.GetText(CodingEnum.GB2312));
+            
+           // await HyRepitle.DownFile("/home/yh/daima/HyReptile/Example/a.jpg",response.GetContent());
 
 
         }
