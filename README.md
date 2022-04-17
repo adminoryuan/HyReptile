@@ -18,7 +18,7 @@
   ```
   - 获得响应
   ```c#
-    await repitle.StartReptile();
+   var response= await repitle.StartReptile();
   ```
   
   - 下载流媒体对象
@@ -26,7 +26,10 @@
     await HyRepitle.DownFile("path/a.jpeg",response.GetContent());
   ```
  - # 获取html
- -
+ ``` c#
+    //对结果进行编码
+    response.GetText(CodingEnum.GB2312);
+ ```
 - # Example
 - # 样例1
   ``` c#
