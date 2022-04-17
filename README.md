@@ -4,7 +4,28 @@
   - 本项目分为两个模块
   - RepitleCore  (爬虫核心爬虫负责模拟发送请求)
   - RepitlePaser (负责对响应的html进行解析)
-  - # 样例使用
+ - # 快速上手
+  - nuget 安装 HyReplite
+  - # 使用
+  - 创建对象
+  - 
+   ```c# 
+  HyRepitle repitle = new HyRepitle();
+  ```
+  - 添加请求头
+  ```c#
+    repitle.Headers(key,val)
+  ```
+  - 获得响应
+  ```c#
+    await repitle.StartReptile();
+  ```
+  
+  - 下载流媒体对象
+  ``` c# 
+    await HyRepitle.DownFile("path/a.jpeg",response.GetContent());
+  ```
+- # Example
   ``` c#
           HyRepitle repitle = new HyRepitle();
 
@@ -28,25 +49,4 @@
 
              
            Console.WriteLine(response.GetText(CodingEnum.Utf8)); //获取响应内容
-  ```
- - # 快速上手
-  - nuget 安装 HyReplite
-  - # 使用
-  - 创建对象
-  - 
-   ```c# 
-  HyRepitle repitle = new HyRepitle();
-  ```
-  - 添加请求头
-  ```c#
-    repitle.Headers(key,val)
-  ```
-  - 获得响应
-  ```c#
-    await repitle.StartReptile();
-  ```
-  
-  - 下载流媒体对象
-  ``` c# 
-    await HyRepitle.DownFile("path/a.jpeg",response.GetContent());
   ```
