@@ -5,7 +5,9 @@
   - RepitleCore  (爬虫核心爬虫负责模拟发送请求)
   - RepitlePaser (负责对响应的html进行解析)
  - # 快速上手
-  - nuget 安装 HyReplite
+  ```bash
+   Install-Package RepitleCore -Version 1.0.0
+  ```
   - # 使用
   - 创建对象
   - 
