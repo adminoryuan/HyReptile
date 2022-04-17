@@ -1,6 +1,9 @@
 # HyReptile(项目正在开发中)
   - # 介绍 
-  - HyReptile 是使用c# 编写的一个轻量爬虫库， 可使用少量代码实现爬虫功能
+  - # HyReptile 是使用c# 编写的一个轻量爬虫库， 可使用少量代码实现爬虫功能
+  - 本项目分为两个模块
+  - RepitleCore  (爬虫核心爬虫负责模拟发送请求)
+  - RepitlePaser (负责对响应的html进行解析)
   - # 样例使用
   ``` c#
           HyRepitle repitle = new HyRepitle();
