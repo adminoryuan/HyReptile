@@ -32,6 +32,15 @@
     //对结果进行编码
     response.GetText(CodingEnum.GB2312);
  ```
+- # 使用常用工具类
+- # 获取一个user-agent
+```c#
+  RepitleUntity.GetUserAgent(UserAgentEnum.Android);
+```
+- # 获取当前时间戳
+```c#
+    RepitleUntity.GetTimeStamp();
+```
 - # Example
 - # 样例1
   ``` c#
