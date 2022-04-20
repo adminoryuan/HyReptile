@@ -53,7 +53,13 @@ namespace RepitleCore
         {
             return Convert.ToBase64String(Body);
         }
-
+    
+        
+        /// <summary>
+        /// base64转换
+        /// </summary>
+        /// <param name="base64"></param>
+        /// <returns></returns>
         public static byte[] Base64ToBody(string base64)
         {
             return Convert.FromBase64String(base64);
