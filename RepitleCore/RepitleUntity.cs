@@ -24,7 +24,7 @@ namespace RepitleCore
         /// 随机产生一个headers
         /// </summary>
         /// <returns></returns>
-        private static string GetUserAgent(UserAgentEnum agentEnum)
+        public static string GetUserAgent(UserAgentEnum agentEnum)
         {
             if (!AgentMap.ContainsKey(agentEnum))
                 throw  new Exception("无该请求头");
@@ -36,7 +36,7 @@ namespace RepitleCore
         /// 获取当前时间戳
         /// </summary>
         /// <returns></returns>
-        private static string GetTimeStamp()
+        public static string GetTimeStamp()
         {
                 
             //当前时间减去1970-1-1
