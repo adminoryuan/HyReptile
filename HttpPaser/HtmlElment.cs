@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Xml;
+
 namespace RestitleUntity
 {
 
@@ -7,11 +9,10 @@ namespace RestitleUntity
     /// </summary>
     public class HtmlElment
     {
-        
-        public HtmlElment()
+        private XmlNodeList _list;
+        public HtmlElment(XmlNodeList _nodes)
         {
-
-
+            _list = _nodes;
         }
     }
 }

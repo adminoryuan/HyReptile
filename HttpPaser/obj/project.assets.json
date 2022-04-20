@@ -1790,9 +1790,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
-      "projectName": "RestitleUntity",
-      "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
+      "projectUniqueName": "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj",
+      "projectName": "RestitlePaser",
+      "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj",
       "packagesPath": "/home/yh/.nuget/packages/",
       "outputPath": "/home/yh/daima/HyReptile/HttpPaser/obj/",
       "projectStyle": "PackageReference",

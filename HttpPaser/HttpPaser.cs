@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml;
 
 namespace RestitleUntity
 {
@@ -6,17 +7,19 @@ namespace RestitleUntity
     /// <summary>
     /// 实现一个html 解析器
     /// </summary>
-    public class HttpPaser : IHttpPaser
+    public class HttpPaser 
     {
-         
-        public HtmlElment Paser()
-        {
-            throw new NotImplementedException();
-        }
+        private XmlUntity _untity;
 
-        public HtmlElment SearchXpath(string xpath)
+        public HttpPaser(string Html)
         {
-            throw new NotImplementedException();
+            _untity=new XmlUntity(Html);
+        }
+       
+
+        public HttpPaser SearchXpath(string xpath)
+        {
+            return null;
         }
 
         public void SetHtml(string Html)

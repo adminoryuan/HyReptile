@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj": {
-            "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj"
+          "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj": {
+            "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj"
           },
           "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj": {
             "projectPath": "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj"

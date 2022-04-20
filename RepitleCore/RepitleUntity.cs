@@ -43,5 +43,20 @@ namespace RepitleCore
             TimeSpan ts = DateTime.Now - new DateTime(1970, 1, 1, 0, 0, 0, 0);
             return Convert.ToInt64(ts.TotalSeconds).ToString();
         }
+
+        /// <summary>
+        /// 转Byte64
+        /// </summary>
+        /// <param name="Body"></param>
+        /// <returns></returns>
+        public static string ToBase(byte[] Body)
+        {
+            return Convert.ToBase64String(Body);
+        }
+
+        public static byte[] Base64ToBody(string base64)
+        {
+            return Convert.FromBase64String(base64);
+        }
     }
 }

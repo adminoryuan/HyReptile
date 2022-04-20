@@ -10,9 +10,10 @@
           <e p="ExampleTest1.html" t="Include" />
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="a.jpg" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="Example.AssemblyInfo.cs" t="Include" />
             </e>
@@ -23,13 +24,13 @@
         <e p="HtmlElment.cs" t="Include" />
         <e p="HttpPaser.cs" t="Include" />
         <e p="IHttpPaser.cs" t="Include" />
-        <e p="RestitleUntity.csproj" t="IncludeRecursive" />
+        <e p="RestitlePaser.csproj" t="IncludeRecursive" />
         <e p="XmlUntity.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netstandard2.1" t="Include">
-              <e p="RestitleUntity.AssemblyInfo.cs" t="Include" />
+              <e p="RestitlePaser.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
@@ -39,12 +40,13 @@
         <e p="HyRepitle.cs" t="Include" />
         <e p="NetSocket.cs" t="Include" />
         <e p="RepitleCore.csproj" t="IncludeRecursive" />
+        <e p="RepitleUntity.cs" t="Include" />
         <e p="Resp" t="Include" />
         <e p="Untity" t="Include">
           <e p="EncodingBody.cs" t="Include" />
           <e p="GzipUntity.cs" t="Include" />
-          <e p="ReadHttp.cs" t="Include" />
         </e>
+        <e p="UserAgentEnum.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="context" t="Include">
           <e p="HttpReqBody.cs" t="Include" />
@@ -53,7 +55,7 @@
         </e>
         <e p="iHyRepitle.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netstandard2.1" t="Include">
               <e p="RepitleCore.AssemblyInfo.cs" t="Include" />
             </e>

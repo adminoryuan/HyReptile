@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HttpPaser\RestitleUntity.csproj" />
+    <ProjectReference Include="..\HttpPaser\RestitlePaser.csproj" />
     <ProjectReference Include="..\RepitleCore\RepitleCore.csproj" />
   </ItemGroup>
   <ItemGroup>

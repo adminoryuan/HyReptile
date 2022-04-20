@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.810.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepitleCore", "RepitleCore\RepitleCore.csproj", "{F5D2F38E-E025-4D2F-A882-C917F7F082E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestitleUntity", "HttpPaser\RestitleUntity.csproj", "{1617B511-6E2F-4625-9F95-BE6C5ED023CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestitlePaser", "HttpPaser\RestitlePaser.csproj", "{1617B511-6E2F-4625-9F95-BE6C5ED023CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{0842E0B6-E455-47E1-B4B6-5635FF1DF837}"
 EndProject

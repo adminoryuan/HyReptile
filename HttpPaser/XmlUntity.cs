@@ -18,6 +18,10 @@ namespace RestitleUntity
            
         }
 
+        public XmlNodeList Xpath(string xpath)
+        {
+            return null;
+        }
         public XmlNodeList SelectNode(string node)
         {
             int len=doc.DocumentElement.ChildNodes.Count;

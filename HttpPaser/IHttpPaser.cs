@@ -9,10 +9,7 @@ namespace RestitleUntity
     /// </summary>
     public interface IHttpPaser
     {
-        /// <summary>
-        /// 将html 解析成对象
-        /// </summary>
-        HtmlElment Paser(); 
+       
 
         /// <summary>
         /// 根据xpath 路径对html 进行解析

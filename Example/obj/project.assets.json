@@ -361,17 +361,17 @@
           "bin/placeholder/RepitleCore.dll": {}
         }
       },
-      "RestitleUntity/1.0.0": {
+      "RestitlePaser/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "System.Xml.XDocument": "4.0.11"
         },
         "compile": {
-          "bin/placeholder/RestitleUntity.dll": {}
+          "bin/placeholder/RestitlePaser.dll": {}
         },
         "runtime": {
-          "bin/placeholder/RestitleUntity.dll": {}
+          "bin/placeholder/RestitlePaser.dll": {}
         }
       }
     }
@@ -1906,16 +1906,16 @@
       "path": "../RepitleCore/RepitleCore.csproj",
       "msbuildProject": "../RepitleCore/RepitleCore.csproj"
     },
-    "RestitleUntity/1.0.0": {
+    "RestitlePaser/1.0.0": {
       "type": "project",
-      "path": "../HttpPaser/RestitleUntity.csproj",
-      "msbuildProject": "../HttpPaser/RestitleUntity.csproj"
+      "path": "../HttpPaser/RestitlePaser.csproj",
+      "msbuildProject": "../HttpPaser/RestitlePaser.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "RepitleCore >= 1.0.0",
-      "RestitleUntity >= 1.0.0"
+      "RestitlePaser >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1943,8 +1943,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj": {
-              "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj"
+            "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj": {
+              "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj"
             },
             "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj": {
               "projectPath": "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj"

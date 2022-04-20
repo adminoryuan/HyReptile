@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdzooYZNpLWbX77tHWhvuSIXKcT6wkRHNVA3evcjNKaR2gAx9GUc/OHbIitkdlS6opU6TPRtsWPW3MPkE+OZhA==",
+  "success": true,
+  "projectFilePath": "/home/yh/daima/HyReptile/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/yh/.nuget/packages/repitlecore/1.0.0/repitlecore.1.0.0.nupkg.sha512",
+    "/home/yh/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/yh/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj": {
-                "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj"
+              "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj": {
+                "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj"
               },
               "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj": {
                 "projectPath": "/home/yh/daima/HyReptile/RepitleCore/RepitleCore.csproj"
@@ -77,12 +77,12 @@
         }
       }
     },
-    "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj": {
+    "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
-        "projectName": "RestitleUntity",
-        "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
+        "projectUniqueName": "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj",
+        "projectName": "RestitlePaser",
+        "projectPath": "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj",
         "packagesPath": "/home/yh/.nuget/packages/",
         "outputPath": "/home/yh/daima/HyReptile/HttpPaser/obj/",
         "projectStyle": "PackageReference",

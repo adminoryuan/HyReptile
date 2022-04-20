@@ -1,0 +1,9 @@
+/home/yh/daima/HyReptile/HttpPaser/bin/Release/netstandard2.1/RestitlePaser.deps.json
+/home/yh/daima/HyReptile/HttpPaser/bin/Release/netstandard2.1/RestitlePaser.dll
+/home/yh/daima/HyReptile/HttpPaser/bin/Release/netstandard2.1/RestitlePaser.pdb
+/home/yh/daima/HyReptile/HttpPaser/obj/Release/netstandard2.1/RestitlePaser.csprojAssemblyReference.cache
+/home/yh/daima/HyReptile/HttpPaser/obj/Release/netstandard2.1/RestitlePaser.AssemblyInfoInputs.cache
+/home/yh/daima/HyReptile/HttpPaser/obj/Release/netstandard2.1/RestitlePaser.AssemblyInfo.cs
+/home/yh/daima/HyReptile/HttpPaser/obj/Release/netstandard2.1/RestitlePaser.csproj.CoreCompileInputs.cache
+/home/yh/daima/HyReptile/HttpPaser/obj/Release/netstandard2.1/RestitlePaser.dll
+/home/yh/daima/HyReptile/HttpPaser/obj/Release/netstandard2.1/RestitlePaser.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d+l/oXYNKLUrlWDRNS0535gysQ7Pn2/IOqEXELu7K+e6EXj8OlGd8yegECu/2PoHahW+idB4GuGYdgVd4Iuljg==",
+  "dgSpecHash": "/AWnNoGh1JNimeXJU2X5V13VOQE1IRwzNTEV5DI0lgVMdySnLgnwiU+TlEqytHmiawwlqfF0rDELdDUrGvUrYQ==",
   "success": true,
-  "projectFilePath": "/home/yh/daima/HyReptile/HttpPaser/RestitleUntity.csproj",
+  "projectFilePath": "/home/yh/daima/HyReptile/HttpPaser/RestitlePaser.csproj",
   "expectedPackageFiles": [
     "/home/yh/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "/home/yh/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
