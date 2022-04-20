@@ -17,7 +17,23 @@ namespace RepitleCore
 
         public HttpReqBody(string method, string url)
         {
-            _stringBuilder.Append($"{method} / HTTP/1.1");
+
+            StringBuilder builder=new StringBuilder();
+            string[] Curls = url.Split("/");
+            
+            for (int i = 3; i <Curls.Length-1; i++)
+            {
+                builder.Append(Curls[i]); builder.Append("/");
+            } 
+            builder.Append(Curls[Curls.Length-1]);
+          
+            if (builder.ToString().Equals(""))
+            {
+                builder.Append("/");
+            }
+
+            Console.WriteLine(builder.ToString());
+            _stringBuilder.Append($"{method} /{builder.ToString()} HTTP/1.1");
             _stringBuilder.Append("\r\n");
         }
 
@@ -45,7 +61,8 @@ namespace RepitleCore
         public byte[] GetReqBuff()
         {
             _stringBuilder.Append("\r\n");
-            _stringBuilder.Append("\r\n"); 
+            _stringBuilder.Append("\r\n");
+          
             return Encoding.UTF8.GetBytes(_stringBuilder.ToString());
 
         }

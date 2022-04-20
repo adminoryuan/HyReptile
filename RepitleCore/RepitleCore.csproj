@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <Description>轻松实现爬虫</Description>
   </PropertyGroup>
 
   <ItemGroup>

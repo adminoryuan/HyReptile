@@ -44,12 +44,12 @@ namespace RepitleCore
             byte[] req = new byte[20480];
 
             
-            int n=connSocket.Receive(req);
-            Console.WriteLine(n);
-            req = req.Take(n).ToArray(); 
+            int n=connSocket.Receive(req); 
             
-            Console.WriteLine(n);
+            req = req.Take(n).ToArray(); 
+             
             int SplitIndex = 0;
+            
             //找到分割线 \r\n\r\n 
             for (int i = 0; i < n; i++)
             {
@@ -80,7 +80,6 @@ namespace RepitleCore
                 newBodyByte.AddRange(req.Take(n).ToArray());
             }
             
-            Console.WriteLine($"len={ContentLength} readlen={readBodylen}");
             
             allBodys =newBodyByte.ToArray();
            

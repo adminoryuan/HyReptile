@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,6 +11,19 @@ namespace RepitleCore
 
         private HttpReqBody reqBody;
 
+        
+        /// <summary>
+        /// 下载文件
+        /// </summary>
+        /// <param name="filePath"></param>
+        /// <param name="content"></param>
+        /// <returns></returns>
+        public static async  Task DownFile(string filePath,byte[] content)
+        {
+            
+           await File.WriteAllBytesAsync(filePath,content);
+            
+        }
         public void AddCookie(string cookie)
         {
             reqBody.Headers($"cookie: {cookie}");
@@ -46,7 +60,7 @@ namespace RepitleCore
 
         public void User_Agent(string val)
         {
-            reqBody.Headers($"User-Agent:{val}");
+            reqBody.Headers($"User-Agent: {val}");
         }
     }
 }
