@@ -91,7 +91,7 @@ namespace RepitleCore
                 allBodys=  GzipUntity.UnGzip(allBodys);
             }
             
-        
+            
             //注册gb231编码
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
         }
@@ -164,7 +164,11 @@ namespace RepitleCore
 
             return EncodingBody.Decoding(Coding,allBodys);
         }
-        
-        
+
+
+        public void Dispose()
+        {
+            connSocket.Close();
+        }
     }
 }

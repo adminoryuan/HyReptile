@@ -3,7 +3,7 @@ using RepitleCore.Untity;
 
 namespace RepitleCore
 {
-    public interface IRepitResponse
+    public interface IRepitResponse : IDisposable
     {
         string getCookie();
 
@@ -16,7 +16,8 @@ namespace RepitleCore
         /// </summary>
         /// <returns></returns>
         string GetText(CodingEnum Coding);
-
+        
+        
 
     }
 }
