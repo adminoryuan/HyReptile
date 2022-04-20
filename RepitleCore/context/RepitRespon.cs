@@ -79,14 +79,21 @@ namespace RepitleCore
                 readBodylen += n;
                 newBodyByte.AddRange(req.Take(n).ToArray());
             }
-            
+
             
             allBodys =newBodyByte.ToArray();
            
             
+            ///嗯。。 判断一下是否存在这个请求头，存在就解压罗。。
+            if (_Headers.ContainsKey("Content-Encoding") && _Headers["Content-Encoding"].Equals("gzip"))
+            {
+              
+                allBodys=  GzipUntity.UnGzip(allBodys);
+            }
             
+        
+            //注册gb231编码
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
-
         }
 
        
@@ -154,6 +161,7 @@ namespace RepitleCore
             {
                 return "";
             }
+
             return EncodingBody.Decoding(Coding,allBodys);
         }
         

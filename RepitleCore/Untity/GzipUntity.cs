@@ -8,7 +8,7 @@ namespace RepitleCore
     /// <summary>
     /// ji
     /// </summary>
-    public class HttpUntity
+    public class GzipUntity
     {
 
         
@@ -46,7 +46,7 @@ namespace RepitleCore
             }
           
         }
-        public HttpUntity()
+        public GzipUntity()
         {
         }
     }
